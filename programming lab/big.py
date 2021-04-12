@@ -1,0 +1,5 @@
+a=int(input("enter the first num :"))
+b=int(input("enter the second num :"))
+c=int(input("enter the third num :"))
+big=max(a,b,c)
+print("biggest of",a,b,c,"is",big)
